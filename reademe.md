@@ -19,5 +19,5 @@ node websockify.js --web D:\phpStudy\PHPTutorial\WWW\git\novnc-browser\node_modu
 电脑A：
 1.浏览器打开网址即可
 电脑B第七步的serverIp:6080/vnc.html
-如果控制台出现no supported type就配置电脑B的第八步
+如果控制台出现unsupported security types就配置电脑B的第八步
 
